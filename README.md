@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil da Luiza Ventura 😁
+# Bem-vindo(a) ao meu perfil 😁
 
 ---
 
