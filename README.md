@@ -13,5 +13,5 @@
 <br/>
 
 <!-- Botões das Redes Sociais -->
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-ventura)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiza-ventura-5745a1145/)
 [![Gmail](https://img.shields.io/badge/GMAIL-%23333333.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizaribeiro664@gmail.com)
