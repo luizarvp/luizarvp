@@ -23,10 +23,10 @@
 ## 🌙 About me
 
 ```txt
-> Name: Luiza Ribeiro Ventura Pires
-> Class: Computer Science student
+> Nome: Luiza Ribeiro Ventura Pires
+> Classe: Computer Science student
 > Vibe: Pink, purple and a little bit of chaos
-> Mission: Turn ideas into code
+> Missão: Transformar ideias em códigos
 ```
 
 Estudante de **Ciência da Computação**, explorando o universo da tecnologia
@@ -47,10 +47,10 @@ e construindo meu caminho através de projetos, aprendizado e código.
 ## 📡 Current transmission
 
 ```txt
-[████████████████████] 100% curiosity
-[███████████████░░░░░]  75% coding
-[████████████░░░░░░░░]  60% coffee
-[████████████████░░░░]  80% creativity
+[████████████████████] 100% curiosity 🤔
+[███████████████░░░░░]  75% coding 💻 
+[████████████░░░░░░░░]  60% icecream 🍨
+[████████████████░░░░]  80% creativity ✏️
 ```
 
 > "Creating my own little universe, one line of code at a time." ✨
