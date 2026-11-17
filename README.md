@@ -61,8 +61,8 @@ e construindo meu caminho através de projetos, aprendizado e código.
 
 ## 🖤 GitHub stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=luizarvp&show_icons=true&hide_border=true&bg_color=1a1025&title_color=ff8bd1&text_color=f8d9ff&icon_color=c084fc&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizarvp&layout=compact&hide_border=true&bg_color=1a1025&title_color=ff8bd1&text_color=f8d9ff&langs_count=8" alt="Linguagens mais usadas">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizarvp&theme=radical" alt="Estatísticas do GitHub">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizarvp&theme=radical" alt="Linguagens mais usadas">
 
 <br>
 
