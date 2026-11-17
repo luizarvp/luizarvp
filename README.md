@@ -24,8 +24,8 @@
 
 ```txt
 > Nome: Luiza Ribeiro Ventura Pires
-> Classe: Computer Science student
-> Vibe: Pink, purple and a little bit of chaos
+> Classe: Estudante de Ciência da Computação 
+> Vibe: Rosa, roxo e um pouco de caos
 > Missão: Transformar ideias em códigos
 ```
 
