@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./kuromi-banner.png" width="100%" alt="Kuromi em um fundo cósmico rosa e roxo">
+<img src="./cyberpunk-banner.png" width="100%" alt="Computador retrô em um cenário cyberpunk">
 
 # ✨💮 Welcome to my profile 💮✨
 
